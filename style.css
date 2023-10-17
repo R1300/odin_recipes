@@ -1,0 +1,32 @@
+.instant_beef_stew {
+    text-align: center;
+    height: 252px;
+    width: 300px;
+    margin: auto;
+    background: #582817;
+}
+
+.img_beef {
+    margin-top: 10px;
+}
+
+.title {
+    text-align: center;
+    color: #582817;
+}
+
+body {
+    background-color:  #E4D9C3;
+}
+
+a:link {
+    color: #D8BD8A;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+a:hover {
+    color:  #AA5042;
+}
+
+
+
