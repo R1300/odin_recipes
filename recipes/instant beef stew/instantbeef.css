@@ -1,0 +1,11 @@
+.title {
+    text-align: center;
+    color: #D8BD8A;
+}
+
+.title_block {
+    background-color: #582817;
+    height: 280px;
+    width: 310px;
+    margin: auto;
+}
